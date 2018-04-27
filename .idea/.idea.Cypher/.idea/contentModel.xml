@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\User\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_Cypher.1637386443.00" t="ExcludeRecursive" />
+    <e p="D:\work\Cypher" t="IncludeFlat">
+      <e p="Cypher" t="IncludeRecursive">
+        <e p="BarCodeGenerator.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Cypher.csproj" t="IncludeRecursive" />
+        <e p="Decoder.cs" t="Include" />
+        <e p="Encoder.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Cypher.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

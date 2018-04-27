@@ -1,0 +1,6 @@
+D:\work\Cypher\Cypher\bin\Debug\Cypher.exe
+D:\work\Cypher\Cypher\bin\Debug\Cypher.pdb
+D:\work\Cypher\Cypher\obj\Debug\Cypher.csprojResolveAssemblyReference.cache
+D:\work\Cypher\Cypher\obj\Debug\Cypher.exe
+D:\work\Cypher\Cypher\obj\Debug\Cypher.pdb
+D:\work\Cypher\Cypher\bin\Debug\Zen.Barcode.Core.dll
