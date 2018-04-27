@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9858dbdc-2be2-4a6b-816f-53eab08cd148" name="Default" comment="" />
+    <list default="true" id="9858dbdc-2be2-4a6b-816f-53eab08cd148" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Cypher/.idea/contentModel.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Cypher/.idea/indexLayout.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Cypher/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Cypher/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Cypher/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Cypher/obj/Debug/Cypher.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/Cypher/obj/Debug/Cypher.csproj.FileListAbsolute.txt" />
+      <change beforePath="$PROJECT_DIR$/Cypher/obj/Debug/Cypher.csprojResolveAssemblyReference.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Cypher/obj/Debug/Cypher.exe" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Cypher/obj/Debug/Cypher.pdb" afterPath="" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,11 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Cypher/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="20" column="9" lean-forward="false" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+              <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
               <folding>
                 <marker date="1524813849099" expanded="true" signature="31:509" ph="{...}" />
                 <marker date="1524813849099" expanded="true" signature="57:507" ph="{...}" />
@@ -33,7 +43,6 @@
               <caret line="62" column="33" lean-forward="false" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
               <folding>
                 <marker date="1524811637436" expanded="false" signature="6:85" ph="..." />
-                <marker date="1524811637436" expanded="true" signature="103:2130" ph="{...}" />
                 <marker date="1524811637436" expanded="true" signature="134:2128" ph="{...}" />
                 <marker date="1524811637436" expanded="true" signature="323:513" ph="/// Формирует числовой код на основе строки с цифрами, буквами и спец. символами ... " />
                 <marker date="1524811637436" expanded="true" signature="576:825" ph="{...}" />
@@ -56,10 +65,9 @@
         <entry file="file://$PROJECT_DIR$/Cypher/BarCodeGenerator.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
-              <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+              <caret line="21" column="27" lean-forward="false" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
               <folding>
                 <marker date="1524813916986" expanded="true" signature="6:49" ph="..." />
-                <marker date="1524813916986" expanded="true" signature="67:991" ph="{...}" />
                 <marker date="1524813916986" expanded="true" signature="107:989" ph="{...}" />
                 <marker date="1524813916986" expanded="true" signature="113:337" ph="/// Генерирует BarCode в формате Code128 ... " />
                 <marker date="1524813916986" expanded="true" signature="405:986" ph="{...}" />
@@ -69,14 +77,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Decoder.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Decoder.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Cypher/Decoder.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+              <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
               <folding>
                 <marker date="1524810488435" expanded="true" signature="6:66" ph="..." />
-                <marker date="1524810488435" expanded="true" signature="84:1794" ph="{...}" />
                 <marker date="1524810488435" expanded="true" signature="115:1792" ph="{...}" />
                 <marker date="1524810488435" expanded="true" signature="304:486" ph="/// Расшифровывает номер договора ... " />
                 <marker date="1524810488435" expanded="true" signature="543:761" ph="{...}" />
@@ -93,11 +100,14 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Cypher/Decoder.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Cypher/Encoder.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Cypher/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Cypher/BarCodeGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Cypher/Encoder.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -137,7 +147,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -156,12 +165,13 @@
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/work/Cypher/Cypher/SypherGeneratorTest.cs" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BarCodeEncoder/Cypher.sln" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../WpfApp/WpfApp.sln" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -207,11 +217,13 @@
       <updated>1524652240266</updated>
       <workItem from="1524652251805" duration="3201000" />
       <workItem from="1524655794365" duration="9142000" />
+      <workItem from="1524815676878" duration="468000" />
+      <workItem from="1524822916087" duration="909000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12343000" />
+    <option name="totallyTimeSpent" value="13720000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -224,16 +236,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32896462" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24125" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" x="9" y="422" width="1600" height="305" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32896462" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -257,26 +270,149 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Cypher/Program.cs</url>
-          <line>20</line>
-          <properties documentPath="$PROJECT_DIR$/Cypher/Program.cs" initialLine="22">
-            <startOffsets>
-              <startOffset value="503" />
-            </startOffsets>
-            <endOffsets>
-              <endOffset value="504" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="10" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Cypher/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1524813849099" expanded="true" signature="31:509" ph="{...}" />
+            <marker date="1524813849099" expanded="true" signature="57:507" ph="{...}" />
+            <marker date="1524813849099" expanded="true" signature="101:504" ph="{...}" />
+            <marker date="1524813849099" expanded="true" signature="382:427" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cypher/Encoder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="62" column="33" lean-forward="false" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
+          <folding>
+            <marker date="1524811637436" expanded="false" signature="6:85" ph="..." />
+            <marker date="1524811637436" expanded="true" signature="134:2128" ph="{...}" />
+            <marker date="1524811637436" expanded="true" signature="323:513" ph="/// Формирует числовой код на основе строки с цифрами, буквами и спец. символами ... " />
+            <marker date="1524811637436" expanded="true" signature="576:825" ph="{...}" />
+            <marker date="1524811637436" expanded="true" signature="606:688" ph="{...}" />
+            <marker date="1524811637436" expanded="true" signature="749:795" ph="{...}" />
+            <marker date="1524811637436" expanded="true" signature="829:1036" ph="/// Формирует числовой код на основе строки, содержащий только цифры ... " />
+            <marker date="1524811637436" expanded="true" signature="1092:1348" ph="{...}" />
+            <marker date="1524811637436" expanded="true" signature="1119:1189" ph="{...}" />
+            <marker date="1524811637436" expanded="true" signature="1270:1319" ph="{...}" />
+            <marker date="1524811637436" expanded="true" signature="1352:1494" ph="/// Формирует числовой код символа ... " />
+            <marker date="1524811637436" expanded="true" signature="1543:1645" ph="{...}" />
+            <marker date="1524811637436" expanded="true" signature="1649:1886" ph="/// Кодирует ID и номер договора в числовой код ... " />
+            <marker date="1524811637436" expanded="true" signature="1953:2125" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cypher/BarCodeGenerator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="27" lean-forward="false" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+          <folding>
+            <marker date="1524813916986" expanded="true" signature="6:49" ph="..." />
+            <marker date="1524813916986" expanded="true" signature="107:989" ph="{...}" />
+            <marker date="1524813916986" expanded="true" signature="113:337" ph="/// Генерирует BarCode в формате Code128 ... " />
+            <marker date="1524813916986" expanded="true" signature="405:986" ph="{...}" />
+            <marker date="1524813916986" expanded="true" signature="802:982" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cypher/Decoder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <folding>
+            <marker date="1524810488435" expanded="true" signature="6:66" ph="..." />
+            <marker date="1524810488435" expanded="true" signature="115:1792" ph="{...}" />
+            <marker date="1524810488435" expanded="true" signature="304:486" ph="/// Расшифровывает номер договора ... " />
+            <marker date="1524810488435" expanded="true" signature="543:761" ph="{...}" />
+            <marker date="1524810488435" expanded="true" signature="765:922" ph="/// Вытаскивает ID договора из зашифрованного кода ... " />
+            <marker date="1524810488435" expanded="true" signature="965:1087" ph="{...}" />
+            <marker date="1524810488435" expanded="true" signature="1091:1254" ph="/// Вытаскивает номер договора из зашифрованного кода ... " />
+            <marker date="1524810488435" expanded="true" signature="1309:1381" ph="{...}" />
+            <marker date="1524810488435" expanded="true" signature="1385:1566" ph="/// Восстанавливает код и номер договора из зашифрованного кода ... " />
+            <marker date="1524810488435" expanded="true" signature="1637:1789" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cypher/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="9" lean-forward="false" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding>
+            <marker date="1524813849099" expanded="true" signature="31:509" ph="{...}" />
+            <marker date="1524813849099" expanded="true" signature="57:507" ph="{...}" />
+            <marker date="1524813849099" expanded="true" signature="101:504" ph="{...}" />
+            <marker date="1524813849099" expanded="true" signature="382:427" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cypher/Encoder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="62" column="33" lean-forward="false" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
+          <folding>
+            <marker date="1524811637436" expanded="false" signature="6:85" ph="..." />
+            <marker date="1524811637436" expanded="true" signature="134:2128" ph="{...}" />
+            <marker date="1524811637436" expanded="true" signature="323:513" ph="/// Формирует числовой код на основе строки с цифрами, буквами и спец. символами ... " />
+            <marker date="1524811637436" expanded="true" signature="576:825" ph="{...}" />
+            <marker date="1524811637436" expanded="true" signature="606:688" ph="{...}" />
+            <marker date="1524811637436" expanded="true" signature="749:795" ph="{...}" />
+            <marker date="1524811637436" expanded="true" signature="829:1036" ph="/// Формирует числовой код на основе строки, содержащий только цифры ... " />
+            <marker date="1524811637436" expanded="true" signature="1092:1348" ph="{...}" />
+            <marker date="1524811637436" expanded="true" signature="1119:1189" ph="{...}" />
+            <marker date="1524811637436" expanded="true" signature="1270:1319" ph="{...}" />
+            <marker date="1524811637436" expanded="true" signature="1352:1494" ph="/// Формирует числовой код символа ... " />
+            <marker date="1524811637436" expanded="true" signature="1543:1645" ph="{...}" />
+            <marker date="1524811637436" expanded="true" signature="1649:1886" ph="/// Кодирует ID и номер договора в числовой код ... " />
+            <marker date="1524811637436" expanded="true" signature="1953:2125" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cypher/BarCodeGenerator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+          <folding>
+            <marker date="1524813916986" expanded="true" signature="6:49" ph="..." />
+            <marker date="1524813916986" expanded="true" signature="107:989" ph="{...}" />
+            <marker date="1524813916986" expanded="true" signature="113:337" ph="/// Генерирует BarCode в формате Code128 ... " />
+            <marker date="1524813916986" expanded="true" signature="405:986" ph="{...}" />
+            <marker date="1524813916986" expanded="true" signature="802:982" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cypher/Decoder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <folding>
+            <marker date="1524810488435" expanded="true" signature="6:66" ph="..." />
+            <marker date="1524810488435" expanded="true" signature="115:1792" ph="{...}" />
+            <marker date="1524810488435" expanded="true" signature="304:486" ph="/// Расшифровывает номер договора ... " />
+            <marker date="1524810488435" expanded="true" signature="543:761" ph="{...}" />
+            <marker date="1524810488435" expanded="true" signature="765:922" ph="/// Вытаскивает ID договора из зашифрованного кода ... " />
+            <marker date="1524810488435" expanded="true" signature="965:1087" ph="{...}" />
+            <marker date="1524810488435" expanded="true" signature="1091:1254" ph="/// Вытаскивает номер договора из зашифрованного кода ... " />
+            <marker date="1524810488435" expanded="true" signature="1309:1381" ph="{...}" />
+            <marker date="1524810488435" expanded="true" signature="1385:1566" ph="/// Восстанавливает код и номер договора из зашифрованного кода ... " />
+            <marker date="1524810488435" expanded="true" signature="1637:1789" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Cypher/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -296,7 +432,6 @@
           <caret line="9" column="114" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="114" />
           <folding>
             <marker date="1524811637436" expanded="false" signature="6:85" ph="..." />
-            <marker date="1524811637436" expanded="true" signature="103:2130" ph="{...}" />
             <marker date="1524811637436" expanded="true" signature="134:2128" ph="{...}" />
             <marker date="1524811637436" expanded="true" signature="323:513" ph="/// Формирует числовой код на основе строки с цифрами, буквами и спец. символами ... " />
             <marker date="1524811637436" expanded="true" signature="576:825" ph="{...}" />
@@ -314,21 +449,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Cypher/SypherGeneratorTest.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Cypher/SypherGeneratorTest.cs" />
     <entry file="file://$PROJECT_DIR$/Cypher/Decoder.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="54" lean-forward="true" selection-start-line="4" selection-start-column="54" selection-end-line="4" selection-end-column="54" />
           <folding>
             <marker date="1524810488435" expanded="true" signature="6:66" ph="..." />
-            <marker date="1524810488435" expanded="true" signature="84:1794" ph="{...}" />
             <marker date="1524810488435" expanded="true" signature="115:1792" ph="{...}" />
             <marker date="1524810488435" expanded="true" signature="304:486" ph="/// Расшифровывает номер договора ... " />
             <marker date="1524810488435" expanded="true" signature="543:761" ph="{...}" />
@@ -342,34 +469,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Cypher/SypherGeneratorTest.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cypher/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="9" lean-forward="false" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-          <folding>
-            <marker date="1524813849099" expanded="true" signature="31:509" ph="{...}" />
-            <marker date="1524813849099" expanded="true" signature="57:507" ph="{...}" />
-            <marker date="1524813849099" expanded="true" signature="101:504" ph="{...}" />
-            <marker date="1524813849099" expanded="true" signature="382:427" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Cypher/SypherGeneratorTest.cs" />
     <entry file="file://$PROJECT_DIR$/Cypher/BarCodeGenerator.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
-          <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+          <caret line="21" column="27" lean-forward="false" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
           <folding>
             <marker date="1524813916986" expanded="true" signature="6:49" ph="..." />
-            <marker date="1524813916986" expanded="true" signature="67:991" ph="{...}" />
             <marker date="1524813916986" expanded="true" signature="107:989" ph="{...}" />
             <marker date="1524813916986" expanded="true" signature="113:337" ph="/// Генерирует BarCode в формате Code128 ... " />
             <marker date="1524813916986" expanded="true" signature="405:986" ph="{...}" />
@@ -384,7 +490,6 @@
           <caret line="62" column="33" lean-forward="false" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
           <folding>
             <marker date="1524811637436" expanded="false" signature="6:85" ph="..." />
-            <marker date="1524811637436" expanded="true" signature="103:2130" ph="{...}" />
             <marker date="1524811637436" expanded="true" signature="134:2128" ph="{...}" />
             <marker date="1524811637436" expanded="true" signature="323:513" ph="/// Формирует числовой код на основе строки с цифрами, буквами и спец. символами ... " />
             <marker date="1524811637436" expanded="true" signature="576:825" ph="{...}" />
@@ -405,10 +510,9 @@
     <entry file="file://$PROJECT_DIR$/Cypher/Decoder.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
           <folding>
             <marker date="1524810488435" expanded="true" signature="6:66" ph="..." />
-            <marker date="1524810488435" expanded="true" signature="84:1794" ph="{...}" />
             <marker date="1524810488435" expanded="true" signature="115:1792" ph="{...}" />
             <marker date="1524810488435" expanded="true" signature="304:486" ph="/// Расшифровывает номер договора ... " />
             <marker date="1524810488435" expanded="true" signature="543:761" ph="{...}" />
@@ -418,6 +522,19 @@
             <marker date="1524810488435" expanded="true" signature="1309:1381" ph="{...}" />
             <marker date="1524810488435" expanded="true" signature="1385:1566" ph="/// Восстанавливает код и номер договора из зашифрованного кода ... " />
             <marker date="1524810488435" expanded="true" signature="1637:1789" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cypher/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding>
+            <marker date="1524813849099" expanded="true" signature="31:509" ph="{...}" />
+            <marker date="1524813849099" expanded="true" signature="57:507" ph="{...}" />
+            <marker date="1524813849099" expanded="true" signature="101:504" ph="{...}" />
+            <marker date="1524813849099" expanded="true" signature="382:427" ph="{...}" />
           </folding>
         </state>
       </provider>
